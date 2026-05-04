@@ -1,0 +1,107 @@
+Microsoft Windows [Version 10.0.26200.8246]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Nadula Hatharasinghe\Desktop\ITPM assigment 1 rep\IT23682696>python test_automation.py --excel "C:\Users\Nadula Hatharasinghe\Desktop\ITPM assigment 1 rep\IT23682696\IT23682696_Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
+Starting Frontend-Only test with 50 rows...
+Frontend loaded successfully.
+Testing [Row 2]: Woow!oyata kohomada today?
+  -> FAIL
+Testing [Row 3]: oyata maths paper eka mata denna puluwanda? oyage marks keeyada?
+  -> FAIL
+Testing [Row 4]: please mata call karanna.
+  -> FAIL
+Testing [Row 5]: assignment eka monday walata submit karanna oona.puluwanda karanna?
+  -> FAIL
+Testing [Row 6]: Ayubown! Kohomada kollo?
+  -> FAIL
+Testing [Row 7]: Suba dawasak. Kohomada obata?
+  -> FAIL
+Testing [Row 8]: puluwannam mata help karanna puluwanda?
+  -> FAIL
+Testing [Row 9]: oyata puluwannam mage notes ekak share karanna?
+  -> FAIL
+Testing [Row 10]: hari, mama ee wade karannam supiriyatama.
+  -> FAIL
+Testing [Row 11]: hari ane! oyaa prashnekada inne? asada katha karanna? oyata time eka thiyanawada?
+  -> FAIL
+Testing [Row 12]: mama mama! ane mata oona eeka!
+  -> FAIL
+Testing [Row 13]: ayye ayye! oyata me prashna therenawada? hari hari mama balannam aiye!
+  -> FAIL
+Testing [Row 14]: mama... oyath enawada?? ayye ene!!!
+  -> FAIL
+Testing [Row 15]: oyta kohomada?
+  -> FAIL
+Testing [Row 16]: api ape ratta adrei.
+  -> FAIL
+Testing [Row 17]: mama oyat passe katha karannam. oyta passe kiyannam.
+  -> FAIL
+Testing [Row 18]: mama aaye office ekat yanna kalin call ekk dennam.
+  -> FAIL
+Testing [Row 19]: api adha morning meetings tina na.mokada ada sirta loku wadak thiyelu. but mama busy na.
+  -> FAIL
+Testing [Row 20]: mama adha office awe. bus eken very tired eke inne mama.
+  -> FAIL
+Testing [Row 21]: api den on the way ayye. traffic situation eka bad very much. apita time madi wei wage neda.
+  -> FAIL
+Testing [Row 22]: oyalage wifi password eka change karada? laptop eka slow wage.
+  -> FAIL
+Testing [Row 23]: mata data connection ne. email eka check karet na mama. username password demala ne.
+  -> FAIL
+Testing [Row 24]: ape teacher Zoom eken class thiyanner. mama WhatsApp ekath check kare na.
+  -> FAIL
+Testing [Row 25]: mama Instagram eken photo dapan. api Facebook group eka desa balamu ada.
+  -> FAIL
+Testing [Row 26]: lecture sir itpm assignment ewanna kiwwa.oyage NIC no eka ID walata danna.
+  -> FAIL
+Testing [Row 27]: Sir email ewala apita documentation check karanna kiyala. PDF file eka download karada.
+  -> FAIL
+Testing [Row 28]: mata heta exam thiyana na. api ilaga lecture ekata heta yamu.
+  -> FAIL
+Testing [Row 29]: oyata info eka ganna puluwanda? . admin eka contact karala dennada?
+  -> FAIL
+Testing [Row 30]: api Colombo ayye.
+  -> FAIL
+Testing [Row 31]: Galle walata movie ballana enna ayye. Jaffna wala oyage yaluwoth ewida?
+  -> FAIL
+Testing [Row 32]: Priyanka mama saha Kumara mama cinemawa balala ada.
+  -> FAIL
+Testing [Row 33]: Anura aiya enna kalin Sunil phone call ekk denna.
+  -> FAIL
+Testing [Row 34]: exam eke 2nd paper ekta pabasarata 90 marks thiyenawa. 1st attempt ekenma pass wei neda?
+  -> FAIL
+Testing [Row 35]: mama 3rd floor ekat poddak yano.
+  -> FAIL
+Testing [Row 36]: mata Rs. 5000 denna puluwanda? USD 50 kiyanne rupiyaal keeyakda?
+  -> FAIL
+Testing [Row 37]: ape lunch ekat Rs. 300 bath kanawa. Oyath enawada?
+  -> FAIL
+Testing [Row 38]: class eka 7:30AM sarat wenawa. ayye 2:30PM weddi enna mawa aran yanna.
+  -> FAIL
+Testing [Row 39]: meeting eka 12:00noon daaamuu.
+  -> FAIL
+Testing [Row 40]: exam eka 2026-05-15 ta schedule karanava.
+  -> FAIL
+Testing [Row 41]: birthday eka 2026-05-10 eka. ayye 2026-05-11 wenidaaata celebration karamu.
+  -> FAIL
+Testing [Row 42]: mama 15 kilometre withara pare pain giya.
+  -> FAIL
+Testing [Row 43]: api 10 liter milk ganna homadama. box eka 50 kilogram withara.
+  -> FAIL
+Testing [Row 44]: machan! ube situation eka adla na. sirawata elakiri charithayak uba.
+  -> FAIL
+Testing [Row 45]: ada  api yamuuu wawata naanna.
+  -> FAIL
+Testing [Row 46]: mata email: amal.silva@gmail.com karanna. link eka: https://www.news.lk balanna.
+  -> FAIL
+Testing [Row 47]: Sunil aiyya oyata me website: www.lk.edu.com eken ganna puluwanda details tika?
+  -> FAIL
+Testing [Row 48]: mama exam pass wennam😊 aiyee.
+  -> FAIL
+Testing [Row 49]: oya mage sahan@gmail.com mail ekata photo tika ewanna.
+  -> FAIL
+Testing [Row 50]: api me wade karala goda yanna  puluwanda? friday katha karamuu?
+  -> FAIL
+Testing [Row 51]: mama adha office ekat yane na. boss ekk mam adha kata karanava. Oyath puluwan nm office ekata giyoth sirta kiyanna. Time ekak thiyeda oyata sirta kiyanna?loku udauwakk eema kiwwoth.
+  -> FAIL
+Keeping browser open. Press CTRL+C to stop.
